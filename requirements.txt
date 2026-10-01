@@ -1,0 +1,4 @@
+slack_bolt
+google-generativeai
+python-dotenv
+websockets
